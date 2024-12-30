@@ -16,7 +16,7 @@
 
 - Once you're in the Azure portal, either click on the Virtual Machines icon in the top menu bar or use the search "vms" in the search box and select "Virtual Machines". 
   
-  ![azure portal](https://github.com/AmiliaSalva/Azure-VM-Prep/assets/132176058/89174131-d43a-444b-b3f9-e4b7972d0041)
+  ![azure portal](images/vm1.png)
 
   
   
