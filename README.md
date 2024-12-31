@@ -14,7 +14,7 @@
 
 
 
-- Once you're in the Azure portal, either click on the Virtual Machines icon in the top menu bar or use the search "vms" in the search box and select "Virtual Machines". 
+- Once you're in the Azure portal, either click on the "Virtual machines" icon in the top menu bar or use the search "vms" in the search box and select "Virtual machines". 
   
   ![azure portal](images/vm1.png)
 
