@@ -23,7 +23,7 @@
 - Click on 'Create', then 'Virtual machine'. This is where we'll set up our new VM!
   
  
-  ![VM create](https://github.com/AmiliaSalva/Azure-VM-Prep/assets/132176058/f8cc721b-2439-4390-9552-06a51b996918)
+  ![VM create]()
   
   </details>
   
