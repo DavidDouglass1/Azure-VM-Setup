@@ -58,6 +58,13 @@
   ![network](images/vm6.png)
 
 
+  Now Review and Create and Create again.  The Virtual Machine is now created!
+
+  Repeat the same exact process for the Linux VM except for operating system select:
+
+  ![Linux OS](images/vm7.png)
+
+
   </details>
 
 
