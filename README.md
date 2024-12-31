@@ -87,10 +87,7 @@
   - **Priority:** Setting priorities in Network Security Groups (NSGs) is an essential step. The priority determines the order in which rules are applied. Rules with lower priority numbers are processed before rules with higher priority numbers because the lower the number, the higher the priority. For the purpose of this lab, I set the priority to ```300``` to ensure that this honeypot functions as intended!
 
   - **Action:** We'll set this to ```Allow```, which means that traffic matching this rule will be allowed to reach our VM. 
-  
- ![NSG](https://github.com/AmiliaSalva/Azure-VM-Prep/assets/132176058/feb1442a-8ee7-4c78-bb98-018858b85f99)
-
-  
+ 
   - **Review & Create:** After i've input and configured all the details we need for this inbound rule, click 'Add' to create the rule. e
  
  
