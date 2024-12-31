@@ -23,7 +23,7 @@
 - Click on 'Create', then 'Virtual machine'. This is where we'll set up our new VM!
   
  
-  ![VM create]()
+  ![VM create](images/vm2.png)
   
   </details>
   
