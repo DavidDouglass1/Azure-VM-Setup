@@ -33,19 +33,29 @@
   
   - **Subscription and resource group:** We'll select our Azure subscription and resource group (Which is way to group and manage resources in Azure!). For the purpose of the project, I already created created a resource group called ```RG-Cyber-Lab2``` 
   
-  - **Virtual Machine Name:** For the purpose of this project, I am going to name this VM, ```Lab-HoneyNet```
+  - **Virtual Machine Name:** For the purpose of this project, I am going to name this VM, ```windows-vm```
 
-  - **Region:** For the purpose of this project, I am going to choose the region, ```(US) East US 2```
+  - **Region:** For the purpose of this project, I am going to choose the region, ```(US) East US```
   
-  - **Availability Options:** Being that the only purpose of this machine will be to act as a Honeypot, we do not require any form of availability, so I selected ```No infrastructure redundancy required```
+  ![VM creation](images/vm3.png)
 
   - **Image:** Select ```Windows 10 Pro, version 21H2 - x64 Gen2```
+
+  - **Size:** Select "See all sizes" and then select any size with at least 2 vcpu's.
   
-  ![VM create](https://github.com/AmiliaSalva/Azure-VM-Prep/assets/132176058/10525f40-6634-4cef-b519-0487d492c878)
+  ![VM create](images/vm4.png)
+
+  - **Username and Password:** Record username and password.  This will be the owner with Global Adminitrator privileges.  I used a complex password so that hackers couldn't randomly brute force hack if for some reason they used the same username.
+
+  - **Public inbound ports:** Select ```Allow selected ports```
+
+  - **Select inbound ports:** Select ```RDP (3389)```
+
+  ![VM create](images/vm5.png)
   
   - **Networking**: When creating the virtual network, we will be leaving it to the default settings. For the purpose of this lab, I called mine ```Lab-VNet```.
   
-  ![netowkr](https://github.com/AmiliaSalva/Azure-VM-Prep/assets/132176058/8fe63ac8-42a9-4bea-bab0-2575013c185c)
+  ![network](images/vm6.png)
 
 
   </details>
